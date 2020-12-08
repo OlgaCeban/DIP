@@ -1,5 +1,5 @@
 # DIP
-Digital Image Processing Course
+Digital Image Processing
 
 FoodDetector detects food on the tray using sliding window
 
